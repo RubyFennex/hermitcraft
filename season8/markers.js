@@ -37,6 +37,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [835, -715, 64], "title": "Mumbo's starter bus", "icon": "mumbo.png" },
 				{ "pos": [850, -622, 64], "title": "Pearl's starter base", "icon": "pearl.png" },
 				{ "pos": [900, -630, 64], "title": "Scar's starter base", "icon": "scar.png" },
+				{ "pos": [880, -609, 64], "title": "Scar's wagon parking lot", "icon": "scar.png" },
 				{ "pos": [835, 95, 55], "title": "Stress' starter cave", "icon": "stress.png" },
 				{ "pos": [1350, 80, 64], "title": "Tango's starter base", "icon": "tango.png" },
 				{ "pos": [1170, -864, 62], "title": "Tinfoil Chef's Tower", "icon": "tfc.png"},
